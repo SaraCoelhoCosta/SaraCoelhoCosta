@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently graduating in **Information Systems**
 
-- 💻 I'm graduated in **Technique in Computer Science**
+- 💻 I'm graduated in **Computer Technician**
 
 - 🌱 I’m currently learning **Python and Java**
 
