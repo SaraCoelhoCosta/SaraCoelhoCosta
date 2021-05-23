@@ -3,6 +3,8 @@
 
 - 🔭 I am currently studying **Information Systems**
 
+- 💻 Formed in Computer Technique
+
 - 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraCoelhoCosta](https://github.com/SaraCoelhoCosta)
