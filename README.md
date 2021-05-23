@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">Student interested in Software Engineering</h3>
 
-- 🔭 I am currently studying **Information Systems**
+- 🔭 I'm currently graduating in **Information Systems**
 
-- 💻 Formed in Computer Technique
+- 💻 I'm graduated in **Technique in Computer Science**
 
 - 🌱 I’m currently learning **Python and Java**
 
