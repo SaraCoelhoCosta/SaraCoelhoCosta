@@ -12,6 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraCoelhoCosta](https://github.com/SaraCoelhoCosta)
 
+<br>
 <p align="left">
   <a href="https://linkedin.com/in/saracoelhocosta" alt="Linkedin" target="blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
