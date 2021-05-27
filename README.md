@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">Student Interested in Development and Data Modeling</h3>
+<h1 align="center"> Hi 👋, I'm Sara</h1>
+
+<img src="https://user-images.githubusercontent.com/31167065/119908202-71932d80-bf28-11eb-8bd4-72d2c6aac3cb.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
+<h3 align="left">About me:</h3>
 
 - 🔭 I'm currently graduating in **Information Systems**
 
@@ -9,25 +12,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraCoelhoCosta](https://github.com/SaraCoelhoCosta)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/saracoelhocosta" target="blank">
-    <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://instagram.com/sara.ccosta_" target="blank">
-    <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+  <a href="https://linkedin.com/in/saracoelhocosta" alt="Linkedin" target="blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://instagram.com/sara.ccosta_" alt="Instagram" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
