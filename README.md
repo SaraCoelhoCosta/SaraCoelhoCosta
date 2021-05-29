@@ -14,9 +14,11 @@
 
 <br>
 <p align="left">
-  <a href="https://linkedin.com/in/saracoelhocosta" alt="Linkedin" target="blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a href="https://linkedin.com/in/saracoelhocosta" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saracoelhocosta" />
+  </a>
 
-  <a href="https://instagram.com/sara.ccosta_" alt="Instagram" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <a href="https://instagram.com/sara.ccosta_" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/sara.ccosta_"/>
+  </a>
 </p>  
