@@ -8,7 +8,9 @@
 
 - 💻 I'm graduated in **Computer Technician**
 
-- 🌱 I’m currently learning **Python and Java**
+- 📚 I’m currently learning **Python and Java**
+
+- 🤔 I'm interested in **Software Engineering, web development and mobile**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaraCoelhoCosta](https://github.com/SaraCoelhoCosta)
 
