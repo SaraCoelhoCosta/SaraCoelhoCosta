@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Sara</h1>
 
-<img src="https://user-images.githubusercontent.com/31167065/119908202-71932d80-bf28-11eb-8bd4-72d2c6aac3cb.png" min-width="250px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/31167065/119908202-71932d80-bf28-11eb-8bd4-72d2c6aac3cb.png" min-width="200px" max-width="300px" width="300px" align="right" alt="Computador">
 
  <h3 align="left">About me:</h3>
 
