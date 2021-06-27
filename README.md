@@ -18,9 +18,9 @@
 
 ![C](https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-CC2927?style=flat-square&logo=Java&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=Sara:https://github.com/SaraCoelhoCosta)
-![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=Sara:https://github.com/SaraCoelhoCosta)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
