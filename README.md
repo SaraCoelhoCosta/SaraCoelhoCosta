@@ -20,11 +20,18 @@
 ![Java](https://img.shields.io/badge/-Java-CC2927?style=flat-square&logo=Java&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=Sara:https://github.com/SaraCoelhoCosta)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 ## Contact
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saracoelhocosta)
-![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sara.ccosta_)
+<p>
+  <a href="https://linkedin.com/in/saracoelhocosta" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://instagram.com/sara.ccosta_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+ </p>
