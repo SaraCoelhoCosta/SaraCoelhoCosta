@@ -36,8 +36,8 @@
   </a>
   
   
-  <a href="https://gmail.com/costa.saracoelho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-CC2927?style=flat-square&logo=gmail&logoColor=white">
+  <a href="Sara Coelho Costa:costa.saracoelho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-CC2927?style=flat-square&logo=gmail&logoColor=white&link=Sara Coelho Costa:costa.saracoelho@gmail.com">
   </a>
 </p>
  
