@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="https://user-images.githubusercontent.com/31167065/119908202-71932d80-bf28-11eb-8bd4-72d2c6aac3cb.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/31167065/123709946-3d22d200-d844-11eb-93b3-97128fe3e75d.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Programacao">
 
 - 🔭 I'm currently graduating in **Information Systems**
 
@@ -25,13 +25,6 @@
 
 
 ## Contact
-<br>
-<p align="left">
-  <a href="https://linkedin.com/in/saracoelhocosta" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saracoelhocosta" />
-  </a>
 
-  <a href="https://instagram.com/sara.ccosta_" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/sara.ccosta_"/>
-  </a>
-</p>  
+![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/saracoelhocosta)
+![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sara.ccosta_)
