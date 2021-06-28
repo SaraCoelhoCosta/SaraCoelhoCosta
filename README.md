@@ -33,11 +33,6 @@
   
   <a href="https://instagram.com/sara.ccosta_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  
-  
-  <a href="costa.saracoelho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-CC2927?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+  </a>  
 </p>
  
