@@ -28,7 +28,7 @@
 
 <p>
   <a href="https://linkedin.com/in/saracoelhocosta" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:https://linkedin.com/in/saracoelhocosta">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:https://linkedin.com/in/saracoelhocosta/">
   </a>
   
   <a href="https://instagram.com/sara.ccosta_" target="_blank">
