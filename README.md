@@ -17,11 +17,16 @@
 
 ![C](https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-CC2927?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
+![Dart](https://img.shields.io/badge/Dart-007ACC?style=flat-square&logo=Dart)
+![Flutter](https://img.shields.io/badge/Flutter-007ACC?style=flat-square&logo=Flutter)
+
+
 
 
 ## Contact
