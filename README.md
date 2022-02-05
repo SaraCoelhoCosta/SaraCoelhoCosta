@@ -8,11 +8,10 @@
 
 - 💻 I'm graduated in **Computer Technician**
 
-- 📚 I’m currently learning **Python and Java**
+- 📚 I’m currently learning **Python, Flutter and Firebase**
 
 - 🤔 I'm interested in **Software Engineering, web development and mobile**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaraCoelhoCosta](https://github.com/SaraCoelhoCosta)
 
 ## Technologies
 
@@ -36,7 +35,7 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white">
   </a>
 
-  <a href="mailto:costa.saracoelho@gmail.com">
+  <a href="mailto:costa.saracoelho@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-CC2927?style=flat-square&logo=gmail&logoColor=white&link=mailto:costa.saracoelho@gmail.com">
   </a>  
 </p>
