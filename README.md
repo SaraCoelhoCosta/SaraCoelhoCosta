@@ -8,9 +8,9 @@
 
 - 💻 I'm graduated in **Computer Technician**
 
-- 📚 I’m currently learning **Python, Flutter and Firebase**
+- 📚 I’m currently learning **Flutter and Firebase**
 
-- 🤔 I'm interested in **Software Engineering, web development and mobile**
+- 🤔 I'm interested in **Software Engineering**
 
 
 ## Technologies
