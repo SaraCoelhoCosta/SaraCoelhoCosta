@@ -8,9 +8,9 @@
 
 - 💻 I'm graduated in **Computer Technician**
 
-- 📚 I’m currently learning **Flutter and Firebase**
+- 📚 I’m currently learning **Flutter** and **Firebase**
 
-- 🤔 I'm interested in **Software Engineering**
+- 🤔 I'm interested in **Software Engineering** and **UX**
 
 
 ## Technologies
@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
-![Dart](https://img.shields.io/badge/Dart-007ACC?style=flat-square&logo=Dart)
+![Dart](https://img.shields.io/badge/Dart-orange?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC?style=flat-square&logo=Flutter)
 
 
