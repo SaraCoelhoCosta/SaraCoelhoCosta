@@ -1,19 +1,19 @@
-<h1 align="center"> Hi 👋, I'm Sara</h1>
+<h1 align="center"> Olá! 👋 Me chamo Sara</h1>
 
-## About me
+## Sobre mim
 
 <img src="https://user-images.githubusercontent.com/31167065/123709946-3d22d200-d844-11eb-93b3-97128fe3e75d.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Programacao">
 
-- 🔭 I'm currently graduating in **Information Systems**
+- :telescope: Graduanda em **Sistemas de Informação**
 
-- 💻 I'm graduated in **Computer Technician**
+- :computer: Sou **Técnica em Informática**
 
-- 📚 I’m currently learning **Flutter** and **Firebase**
+- :books: Atualmente estou aprendendo **Desenvolvimento Web**
 
-- 🤔 I'm interested in **Software Engineering** and **UX**
+- 🤔 Possuo interesse em **Engenharia de Software** e **UX**
 
 
-## Technologies
+## Tecnologias utilizadas
 
 ![C](https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-CC2927?style=flat-square&logo=Java&logoColor=white)
@@ -21,15 +21,19 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
-![Dart](https://img.shields.io/badge/Dart-orange?style=flat-square&logo=Dart)
+![Figma](https://img.shields.io/badge/Figma-181717?style=flat-square&logo=figma)
+![Dart](https://img.shields.io/badge/Dart-4479A1?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-007ACC?style=flat-square&logo=Flutter)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=blue)
+![JS](https://img.shields.io/badge/JS-181717?style=flat-square&logo=Javascript)
 
 
 
 
-## Contact
+## Contato
 
 <p>
   <a href="https://linkedin.com/in/saracoelhocosta" target="_blank">
