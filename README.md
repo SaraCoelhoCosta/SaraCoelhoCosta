@@ -4,13 +4,15 @@
 
 <img src="https://user-images.githubusercontent.com/31167065/123709946-3d22d200-d844-11eb-93b3-97128fe3e75d.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Programacao">
 
-- :telescope: Graduanda em **Sistemas de Informação**
+- :mortar_board: Graduanda em **Sistemas de Informação**
 
 - :computer: Sou **Técnica em Informática**
 
 - :books: Atualmente estou aprendendo **Desenvolvimento Web**
 
-- 🤔 Possuo interesse em **Engenharia de Software** e **UX**
+- :wrench: Atualmente estou estagiando como **Analista de Sistemas Jr.**
+
+- :dart: Possuo interesse em **Engenharia de Software** e **UX**
 
 
 ## Tecnologias utilizadas
