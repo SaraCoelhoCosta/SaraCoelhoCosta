@@ -4,15 +4,15 @@
 
 <img src="https://user-images.githubusercontent.com/31167065/123709946-3d22d200-d844-11eb-93b3-97128fe3e75d.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Programacao">
 
-- :mortar_board: Graduanda em **Sistemas de Informação**
+- :mortar_board: Bacharel em **Sistemas de Informação**
 
 - :computer: Sou **Técnica em Informática**
 
 - :books: Atualmente estou aprendendo **Desenvolvimento Web** com foco em **JS, React e Node.js**
 
-- :hammer_and_wrench: Atualmente estou estagiando como **Suporte Técnico**.
+- :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas**.
 
-- :dart: Possuo interesse em **Desenvolvimento de Software**, **Testes**, **Engenharia de Software** e **UX**.
+- :dart: Possuo interesse em **Desenvolvimento de Software**, **QA** e **Engenharia de Software**.
 
 ## Tecnologias utilizadas
 
