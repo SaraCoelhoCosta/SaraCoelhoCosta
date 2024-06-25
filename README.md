@@ -4,11 +4,11 @@
 
 <img src="https://user-images.githubusercontent.com/31167065/123709946-3d22d200-d844-11eb-93b3-97128fe3e75d.png" min-width="200px" max-width="230px" width="230px" align="right" alt="Programacao">
 
-- :mortar_board: Bacharel em **Sistemas de Informação**
+- :mortar_board: Graduada em **Sistemas de Informação**
 
 - :computer: Sou **Técnica em Informática**
 
-- :books: Atualmente estou aprendendo **Desenvolvimento Web** com foco em **JS, React e Node.js**
+- :books: Atualmente estou aprendendo sobre **Desenvolvimento Web Full stack**
 
 - :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas**.
 
@@ -32,6 +32,7 @@
 ![JS](https://img.shields.io/badge/JS-181717?style=flat-square&logo=Javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=React)
+![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=PHP)
 
 
 ## Contato
