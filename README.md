@@ -8,7 +8,7 @@
 
 - :computer: Sou **Técnica em Informática**
 
-- :books: Atualmente estou aprendendo sobre **Desenvolvimento Web Full stack**
+- :books: Atualmente estou aprendendo sobre **Desenvolvimento Web**
 
 - :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas**.
 
@@ -17,7 +17,7 @@
 ## Tecnologias utilizadas
 
 ![C](https://img.shields.io/badge/C-4479A1?style=flat-square&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-CC2927?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-CC2927?style=flat-square&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -33,7 +33,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=React)
 ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=PHP)
-
 
 ## Contato
 
