@@ -10,9 +10,9 @@
 
 - :books: Atualmente estou aprendendo sobre **Desenvolvimento Web**
 
-- :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas**.
+- :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas e QA**.
 
-- :dart: Possuo interesse em **Desenvolvimento de Software**, **QA** e **Engenharia de Software**.
+- :dart: Possuo interesse em **Engenharia de Software**.
 
 ## Tecnologias utilizadas
 
