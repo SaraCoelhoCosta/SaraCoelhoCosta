@@ -8,11 +8,11 @@
 
 - :computer: Sou **Técnica em Informática**
 
-- :books: Atualmente estou aprendendo sobre **Desenvolvimento Web**
+- :books: Atualmente estou aprendendo sobre **Automação de testes**
 
 - :hammer_and_wrench: Atualmente estou trabalhando como **Analista de Sistemas e QA**.
 
-- :dart: Possuo interesse em **Engenharia de Software**.
+- :dart: Possuo interesse em **Análise de testes/QA**.
 
 ## Tecnologias utilizadas
 
